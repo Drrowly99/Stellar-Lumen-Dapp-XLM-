@@ -26,6 +26,7 @@
     "local-storage": "^2.0.0",
     "mysql": "^2.2.1",
     "node-fetch": "^2.6.7",
+    "stellar-base": "^7.0.0",
     "stellar-sdk": "^10.0.1",
     "util": "^0.12.4",
     "web3": "^1.7.0",
